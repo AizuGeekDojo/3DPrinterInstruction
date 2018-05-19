@@ -29,7 +29,7 @@ UPBoxの場合は全てのネジとプレートの穴を合わせておいたあ
 UPminiの場合は全ての爪に引っ掛かるように横からスライドしてセットしてください。
 
 - **UPBoxの場合**
-  ![UPBoxPlate.png](./img/UPBoxPlate.png)
+  ![UPBoxPlate.png](./img/UPBoxplate.png)
   赤色で囲った部分がきちんとはまっているかを確認してください。一つでも外れていると、きちんとプリントができない場合があります。
 
 - **UPminiの場合**
