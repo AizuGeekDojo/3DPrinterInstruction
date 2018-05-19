@@ -49,12 +49,34 @@ UPminiはの場合はディスプレイの設定をタッチしたあとライ�
 
 #### 使う際の流れ
 - UP Studioを起動
+起動直後は以下のような画面が出てきます。
+![welcomewin.png](./img/welcomewin.png)
+矢印のUPをクリックするとモデルの配置画面が出てきます。
+![startwin.png](./img/startwin.png)
+
 - データを開き、配置
+画面左側にある+をクリックし、出てきたメニューの左側のAdd3DModelをクリックします。
+![addmodel.png](./img/addmodel.png)
+
 - 使用する3Dプリンタを選択
+左上にある歯車をクリックすると設定画面が出てきます。
+そこのPrinterをクリックし、使用するプリンタをクリックしてください。
+![selectpr.png](./img/selectpr.png)
+または画面の左上にあるプリンタの選択画面から選択できます
+![selectpr2.png](./img/selectpr2.png)
+
 - 初期化
+![print.png](./img/print.png)
+
 - オプションを設定してスタート
+![print.png](./img/print.png)
+
 
 #### 覚えておくといいこと
 - 回転
+
+![print.png](./img/print.png)
+
 - 複製
-- プレビュー
+
+- 拡大縮小
