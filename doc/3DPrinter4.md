@@ -29,7 +29,7 @@
 
 「Printer」をクリックし、使用するプリンタを選択してください。
 
-<img src="./img/selectpr.png" width="80%">
+<img src="./img/selectpr.png" width="60%">
 
 または画面左上のバーからも同様に選択できます。
 
@@ -44,12 +44,13 @@
 > またはプリンター本体の操作でも同様に初期化できます。
 - UPminiの場合 - 画面で右下の「初期化」→「✔︎」を選択
 
-![UPminiInit.jpg](./img/UPminiInit.jpg)
+<!-- ![UPminiInit.jpg](./img/UPminiInit.jpg) -->
+<img src="./img/UPminiInit.jpg" width="80%">
 
 - UPBoxの場合 - 右にある3つのボタンのうちの左のボタンを長押し
 
 <!-- ![UPBoxInit.jpg](./img/UPBoxInit.jpg) -->
-<img src="./img/UPBoxInit.jpg" width="50%">
+<img src="./img/UPBoxInit.jpg" width="40%">
 
 
 右上のステータスバーに「Printer Ready」が表示されたら完了。
