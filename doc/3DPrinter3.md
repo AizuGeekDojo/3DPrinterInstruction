@@ -84,7 +84,7 @@
 ![UPBoxInit.jpg](./img/box_material_setting.JPG)
 
 -   ボタンによって挿入操作を行う
-マテリアルの挿入操作を行います。挿入操作をする前に、挿入するマテリアルの種類が、設定されているマテリアルと同じかどうかを確認します。PCからMaintainance -> MAterial -> Type に表示されている種類を確認してください。
+マテリアルの挿入操作を行います。挿入操作をする前に、挿入するマテリアルの種類が、設定されているマテリアルと同じかどうかを確認します。PCからMaintainance -> Material -> Type に表示されている種類を確認してください。
 ![UPBoxInit.jpg](./img/pc_material_select.JPG)
 マテリアルの種類はロールにラベリングされています。
 ![UPBoxInit.jpg](./img/material_roll_info.JPG)
