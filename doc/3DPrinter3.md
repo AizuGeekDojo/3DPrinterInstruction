@@ -64,7 +64,7 @@
 ディスプレイのマテリアル画面から挿入操作を行います。挿入ボタンを押す前に、挿入するマテリアルの種類が画面に表示されている種類と同じか確認をしてください。
 ![screen_material_select.JPG](./img/screen_material_select.JPG)
 マテリアルの種類はロールにラベリングされています。
-![UPBoxInit.jpg](./img/material_roll_info.JPG)
+![material_roll_info.JPG](./img/material_roll_info.JPG)
 ディスプレイに表示されている種類と違う場合はディスプレイの種類のボタンを押すとマテリアルの種類が切り替わります。  
 種類の選択を確認しましたら、挿入ボタンを押しましょう。  
 マテリアルを当てながら待機しましょう。
