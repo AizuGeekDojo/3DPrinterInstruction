@@ -33,7 +33,7 @@
 
 -  ロールを巻き取る
 除去が終わりましたら、外のロールを巻き取りロールを外しましょう。これにて除去作業は完了です。  
-![UPBoxInit.jpg](./img/material_rolling.JPG)
+![material_rolling.JPG](./img/material_rolling.JPG)
 
 ### UP boxの場合（3号機の場合）
 -  電源を入れ、初期化する
