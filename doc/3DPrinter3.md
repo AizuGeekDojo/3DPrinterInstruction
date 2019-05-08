@@ -87,7 +87,7 @@
 マテリアルの挿入操作を行います。挿入操作をする前に、挿入するマテリアルの種類が、設定されているマテリアルと同じかどうかを確認します。PCからMaintainance -> Material -> Type に表示されている種類を確認してください。
 ![pc_material_select.JPG](./img/pc_material_select.JPG)
 マテリアルの種類はロールにラベリングされています。
-![UPBoxInit.jpg](./img/material_roll_info.JPG)
+![material_roll_info.JPG](./img/material_roll_info.JPG)
 種類と違う場合は、設定の種類を選択し直してください。  
 種類の選択を確認しましたら、挿入操作を行いましょう。  
 真ん中のボタンを長押しすると挿入のための加熱が始まります。マテリアルを当てながら待機しましょう。
