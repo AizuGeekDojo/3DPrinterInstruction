@@ -12,7 +12,7 @@
   -  UP boxの場合（3号機の場合）    
 
 
-## <font color="Salmon">マテリアルの取り出し</font>
+## マテリアルの取り出し
 
 ### UP miniの場合（1,2号機の場合）
 
@@ -40,7 +40,7 @@
 >詳しくはファイル2 参照  
 
 -  プリンタの頭部分のカバーを開ける
-![UPBoxInit.jpg](./img/box_head.JPG)
+![box_head.JPG](./img/box_head.JPG)
 -  ボタンによって取り出し操作を行います。真ん中のボタンを二回押します。  
 マテリアルを除去するため、ヘッドの加熱を始めます。取り出しが始まるまで待ちましょう。  
 -  除去が始まったら
@@ -50,19 +50,19 @@
 
 
 
-## <font color="Salmon">マテリアルの挿入</font>
+## マテリアルの挿入
 ### UP miniの場合（1,2号機の場合）
 -  マテリアルの設置
 マテリアルのロールをセットし、チューブに挿入します。ロールの向きは下からマテリアルが出るようにしてください。  チューブはヘッドの近くまで続いています。
-![UPBoxInit.jpg](./img/material_rolling.JPG)
+![material_rolling.JPG](./img/material_rolling.JPG)
 
 -   マテリアルの先をヘッドの挿入部分で待機させる
 ヘッドにはマテリアルが挿入されていく穴があります。マテリアルで穴の中の最深部を探り、そこにマテリアルを当てながら待機させます。
-![UPBoxInit.jpg](./img/material_holl_set.JPG)
+![material_holl_set.JPG](./img/material_holl_set.JPG)
 
 - # ボタンによって挿入操作を行う
 ディスプレイのマテリアル画面から挿入操作を行います。挿入ボタンを押す前に、挿入するマテリアルの種類が画面に表示されている種類と同じか確認をしてください。
-![UPBoxInit.jpg](./img/screen_material_select.JPG)
+![screen_material_select.JPG](./img/screen_material_select.JPG)
 マテリアルの種類はロールにラベリングされています。
 ![UPBoxInit.jpg](./img/material_roll_info.JPG)
 ディスプレイに表示されている種類と違う場合はディスプレイの種類のボタンを押すとマテリアルの種類が切り替わります。  
@@ -73,7 +73,7 @@
 自動で入って行きますが、マテリアルが詰まっている場合ガコガコと音がします。そのような不具合が起こった場合はディスプレイのストップボタンを押して中止しましょう。その際はSAに状況を伝えて、つまりを直してもらってください。
 -   挿入が終わったら
 ピッと音と共に挿入が完了します。ヘッドの先端から排出されたマテリアルが出てきている場合があるので、除去しましょう。
-![UPBoxInit.jpg](./img/material_head_remove.JPG)
+![material_head_remove.JPG](./img/material_head_remove.JPG)
 ### UP boxの場合（3号機の場合）
 -  マテリアルの設置
 マテリアルのロールをセットし、チューブに挿入します。ロールの向きは下からマテリアルが出るようにしてください。  チューブはヘッドの近くまで続いています。
