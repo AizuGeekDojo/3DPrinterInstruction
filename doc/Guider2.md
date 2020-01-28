@@ -1,5 +1,5 @@
 
-# Aizu Geek Dojo 講習 (Guider ][)
+# Aizu Geek Dojo 講習 (Guider Ⅱ)
  
 ## 目次
 
