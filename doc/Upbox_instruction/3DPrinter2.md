@@ -11,16 +11,16 @@
 
 - ##### 電源を入れる
 3Dプリンタの後ろに正面から見て右下に電源スイッチがあります。
-![ptrfront.jpg](./img/ptrfront.jpg)
-![ptrback.jpg](./img/ptrback.jpg)
+![ptrfront.jpg](../img/upbox/ptrfront.jpg)
+![ptrback.jpg](../img/upbox/ptrback.jpg)
 
 - ##### 初期化する
 UPBoxの場合は右にある3つのボタンのうちの左のボタンを長押しします。  
-![UPBoxInit.jpg](./img/UPBoxInit.jpg)
+![UPBoxInit.jpg](../img/upbox/UPBoxInit.jpg)
 
 UPminiの場合はディスプレイ右下にある初期化をタッチしてください。  
 
-![UPminiinit.jpg](./img/UPminiInit.jpg)
+![UPminiinit.jpg](../img/upbox/UPminiInit.jpg)
 
 **初期化はコンピュータからも行えます。**
 
@@ -29,11 +29,11 @@ UPBoxの場合は全てのネジとプレートの穴を合わせておいたあ
 UPminiの場合は全ての爪に引っ掛かるように横からスライドしてセットしてください。
 
 - **UPBoxの場合**
-  ![UPBoxPlate.png](./img/UPBoxplate.png)
+  ![UPBoxPlate.png](../img/upbox/UPBoxplate.png)
   赤色で囲った部分がきちんとはまっているかを確認してください。一つでも外れていると、きちんとプリントができない場合があります。
 
 - **UPminiの場合**
-    ![UPminiplate.png](./img/UPminiplate.png)
+    ![UPminiplate.png](../img/upbox/UPminiplate.png)
     赤色で囲った部分がきちんとはまっているかを確認してください。
 
 - ##### コンピュータでプリントする
@@ -44,26 +44,26 @@ UPminiの場合は全ての爪に引っ掛かるように横からスライド�
 怪我をしやすい作業です。気をつけて行ってください。
 
   使用するのはげんのうとヘラです。
-![Using](./img/Using.png)
+![Using](../img/upbox/Using.png)
 
   ヘラには表と裏があります
-  ![Upside](./img/omote.jpg)
+  ![Upside](../img/upbox/omote.jpg)
   このように、先端が斜めに切れているのが表面になっています。
-  ![Downside](./img/ura.jpg)
+  ![Downside](../img/upbox/ura.jpg)
   裏側は何もなく、SGUのシールが貼られています。
 
   **実際にはがす**
-  ![Remove_foot](./img/Foot.jpg)
+  ![Remove_foot](../img/upbox/Foot.jpg)
   両足にプレートを挟み、プレートが動かないように固定します。刃先が向かうこともあるので、素肌が露出するような履物はあまりお勧めできません。
 
-  ![Remove](./img/Remove.jpg)
+  ![Remove](../img/upbox/Remove.jpg)
   3Dモデルの端をヘラにあてがいます。この時、上にヘラの表側が来るようにしてください。
   ヘラの尻をげんのうで叩き、はがしていきます。
 
-  ![nokori](./img/plate_nokori.jpg)
+  ![nokori](../img/upbox/plate_nokori.jpg)
   次回使うためにも、3Dモデルを支えるサポーターもきれいにはがしてください。ヘラで同じようにこそげ落とします。
 
-  ![Complete](./img/Remove_comp.jpg)
+  ![Complete](../img/upbox/Remove_comp.jpg)
   このようにサポーターなどもすべて落ちるまできれいにして、プリンター内部にセットしてください。
 
 #### 覚えておくといいこと
