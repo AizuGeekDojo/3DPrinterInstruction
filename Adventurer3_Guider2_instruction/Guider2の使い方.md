@@ -24,7 +24,7 @@
 2. IPアドレスを確認する  
   起動後のホーム画面からタッチパネルを操作して「ツール」から「その他」を開いて確認します。
 
-![guider2_ip](../img/guider2_adventurer3/Guider2の使い方/guider2_ip.JPG)
+![guider2_IP](../img/guider2_adventurer3/Guider2の使い方/guider2_IP.JPG)
 
 
 <br>
