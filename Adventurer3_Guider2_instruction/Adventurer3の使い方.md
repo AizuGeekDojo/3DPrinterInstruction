@@ -27,7 +27,7 @@
 2. IPアドレスを確認する  
   起動後のホーム画面からタッチパネルを操作して「設定」の3ページ目を開いて確認します。
 
-![adventurer3_front_ip_address](../img/guider2_adventurer3/Adventurer3の使い方/adventurer3_front_ip_address.JPG)
+![adventurer3_ip_address](../img/guider2_adventurer3/Adventurer3の使い方/adventurer3_ip_address.JPG)
 
 <br>
 
