@@ -29,7 +29,7 @@ FlashPrintはFLASHFORGE社が独自に開発したソフトウェアです。
 [http://flashforge.co.jp/support/](http://flashforge.co.jp/support/)
 ![download_homepage_screenshot](../img/guider2_adventurer3/FlashPrintの使い方/download_homepage_screenshot.png)
 
-私の環境がWindowsなので、MacOSではどのようにするか分かりませんでした。m(_ _)m　ですので、以下に記すダウンロード方法はWindows用です。ただ、恐らくMacOSでも同じようなものではないかと思っています。
+Windows環境で検証を行なっているため、以下に記すダウンロード方法はWindows用です。ただ、恐らくMacOSでも同じようなものではないかと思っています。
 
 先ほどのホームページからWin64もしくはWin32と書かれているところからzipファイルをダウンロードします。バージョンは好きなものをダウンロードしましょう。私は今回4.3.3をダウンロードします。
 
