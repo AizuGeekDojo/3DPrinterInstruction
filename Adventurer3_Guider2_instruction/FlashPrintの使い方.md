@@ -7,7 +7,7 @@
 - [3.操作方法](#3操作方法)
 
 ### 1.FlashPrintの概要
-FlasPrintはFLASHFORGE社が独自に開発したソフトウェアです。
+FlashPrintはFLASHFORGE社が独自に開発したソフトウェアです。
 無料で利用することができます。
 
 #### FlashPrintは何をするものなのか
